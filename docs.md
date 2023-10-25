@@ -37,28 +37,29 @@ toppings list,
 
 
 ### Pizza Chef
-Pizza Chef wants a clear UI that Identifies all aspects of pizza creation for simplicity. Pizzas should be easy to identify as well as all details such as crust, sauce, cheese, and toppings.
--creation space where i can visualize pizza
---design should help differentiate between various pizza and their toppings
---Adding, updating, or deleting a pizza, or its toppings, should be a straightforward process.
+Pizza Chef wants a clear UI that Identifies all aspects of pizza creation for simplicity. Pizzas should be easy to identify as well as all details such as crust, sauce, cheese, and toppings.<br/>
+-creation space where i can visualize pizza<br/>
+--design should help differentiate between various pizza and their toppings<br/>
+--Adding, updating, or deleting a pizza, or its toppings, should be a straightforward process.<br/>
 --Ensure that the UI provides feedback when duplicate pizza names are entered.
 
-**screens:** 
-pizza list, 
-    modal - delete pizza,
-    prompt on page - successfly save/delete
-pizza add/edit, 
-    Error message for existing pizza name
-    prompt on page - successfly save/delete
+**screens:** <br/>
+pizza list, <br/>
+    modal - delete pizza,<br/>
+    prompt on page - successfly save/delete<br/>
+pizza add/edit, <br/>
+    Error message for existing pizza name<br/>
+    prompt on page - successfly save/delete<br/>
 
 ### Design Decisions: 
 -Editing or adding a new pizza is a form submission. Standard form validation should suffice for informing user of duplicate name entry.
+<br/>
 -Editing or adding a new topping is a form submission. Standard form validation should suffice for informing user of duplicate name entry
     
 
-**Deliverables:**
--Documentation (docs.md)
--Wireframes
--User Flows
--Prototype that demonstrates interactions
+**Deliverables:**<br/>
+-Documentation (docs.md)<br/>
+-Wireframes<br/>
+-User Flows<br/>
+-Prototype that demonstrates interactions<br/>
 -Basic responsive front-end for one page
