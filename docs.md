@@ -8,6 +8,9 @@ https://www.figma.com/file/qnnWpo9yxHfWsTPYa5pcTG/Pizza_UserFlow?type=whiteboard
 **Link to wireframe:**
 https://www.figma.com/proto/JAWZ5Dd7HaKYabuultZS6i/Pizza_Wireframes1-(Copy)?type=design&node-id=1-2&t=tDHHPU4q2Z6dNk7I-1&scaling=min-zoom&page-id=0%3A1&mode=design
 
+**Link to Design/Prototype:**
+https://www.figma.com/proto/RjqR1FPnCMNt8JpMdYbjQE/Pizza_Design?type=design&t=vasPnKH6QIE18BRV-1&scaling=min-zoom&page-id=0%3A1&node-id=1-2&mode=design
+
 **Link to developed page:**
 http://dallincox.com/ux_exercise/src/
 
