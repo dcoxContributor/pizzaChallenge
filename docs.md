@@ -1,6 +1,6 @@
 # StrongMind UI/UX Pizza Designer Excercize
 **Project Details:**
-https://github.com/StrongMind/culture/blob/main/recruit/ux-engineer.md#user-stories
+https://github.com/StrongMind/culture/blob/main/recruit/ux-engineer.md
 
 **Link to userflow:**
 https://www.figma.com/file/qnnWpo9yxHfWsTPYa5pcTG/Pizza_UserFlow?type=whiteboard&node-id=0%3A1&t=5ULZAR8Nx4rgKNQC-1
