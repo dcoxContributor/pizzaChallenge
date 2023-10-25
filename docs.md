@@ -9,13 +9,13 @@ https://www.figma.com/file/qnnWpo9yxHfWsTPYa5pcTG/Pizza_UserFlow?type=whiteboard
 https://www.figma.com/proto/JAWZ5Dd7HaKYabuultZS6i/Pizza_Wireframes1-(Copy)?type=design&node-id=1-2&t=tDHHPU4q2Z6dNk7I-1&scaling=min-zoom&page-id=0%3A1&mode=design
 
 
-##Documentation:
+## Documentation:
 **Target devices:** Desktop, Tablet, Mobile
 
 **Assumptions:**
 Happy route on database submissions - ie no problems saving configurations
 
-###Pizza Store Owner (Manage toppings UI)
+### Pizza Store Owner (Manage toppings UI)
 Pizza owner wants a simple and easy to use interface that allows them to add or edit toppings as well as add new toppings. Any errors made from user should be easily identifiable and validated.
 -visually appealing dashboard to manage toppings
 --Easily Identify each topping through visual or name
@@ -31,7 +31,7 @@ toppings list,
     prompt on page - successful save/delete
 
 
-###Pizza Chef
+### Pizza Chef
 Pizza Chef wants a clear UI that Identifies all aspects of pizza creation for simplicity. Pizzas should be easy to identify as well as all details such as crust, sauce, cheese, and toppings.
 -creation space where i can visualize pizza
 --design should help differentiate between various pizza and their toppings
@@ -46,7 +46,7 @@ pizza add/edit,
     Error message for existing pizza name
     prompt on page - successfly save/delete
 
-###Design Decisions: 
+### Design Decisions: 
 -Editing or adding a new pizza is a form submission. Standard form validation should suffice for informing user of duplicate name entry.
 -Editing or adding a new topping is a form submission. Standard form validation should suffice for informing user of duplicate name entry
     
