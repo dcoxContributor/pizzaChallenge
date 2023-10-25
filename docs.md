@@ -27,12 +27,12 @@ Pizza owner wants a simple and easy to use interface that allows them to add or 
 --Adding updating or deleting a topping should be intuitive<br/>
 --clear feedback when i try to add duplicate toppings<br/>
 
-**screens:** 
-toppings list, 
-    modal - edit topping, 
-    modal - add topping modal, 
-    modal - topping photo uploading
-    modal - delete topping modal
+**screens:** <br/>
+toppings list, <br/>
+    modal - edit topping, <br/>
+    modal - add topping modal, <br/>
+    modal - topping photo uploading<br/>
+    modal - delete topping modal<br/>
     prompt on page - successful save/delete
 
 
