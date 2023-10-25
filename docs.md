@@ -8,6 +8,8 @@ https://www.figma.com/file/qnnWpo9yxHfWsTPYa5pcTG/Pizza_UserFlow?type=whiteboard
 **Link to wireframe:**
 https://www.figma.com/proto/JAWZ5Dd7HaKYabuultZS6i/Pizza_Wireframes1-(Copy)?type=design&node-id=1-2&t=tDHHPU4q2Z6dNk7I-1&scaling=min-zoom&page-id=0%3A1&mode=design
 
+**Link to developed page:**
+http://dallincox.com/ux_exercise/src/
 
 ## Documentation:
 **Target devices:** Desktop, Tablet, Mobile
@@ -16,11 +18,11 @@ https://www.figma.com/proto/JAWZ5Dd7HaKYabuultZS6i/Pizza_Wireframes1-(Copy)?type
 Happy route on database submissions - ie no problems saving configurations
 
 ### Pizza Store Owner (Manage toppings UI)
-Pizza owner wants a simple and easy to use interface that allows them to add or edit toppings as well as add new toppings. Any errors made from user should be easily identifiable and validated.
--visually appealing dashboard to manage toppings
---Easily Identify each topping through visual or name
---Adding updating or deleting a topping should be intuitive
---clear feedback when i try to add duplicate toppings
+Pizza owner wants a simple and easy to use interface that allows them to add or edit toppings as well as add new toppings. Any errors made from user should be easily identifiable and validated.<br/>
+-visually appealing dashboard to manage toppings<br/>
+--Easily Identify each topping through visual or name<br/>
+--Adding updating or deleting a topping should be intuitive<br/>
+--clear feedback when i try to add duplicate toppings<br/>
 
 **screens:** 
 toppings list, 
